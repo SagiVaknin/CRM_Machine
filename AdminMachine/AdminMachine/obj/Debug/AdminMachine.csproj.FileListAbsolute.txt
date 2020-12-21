@@ -1,0 +1,21 @@
+C:\Users\Sagi\documents\visual studio 2015\Projects\AdminMachine\AdminMachine\obj\Debug\AdminMachine.AddMakat.resources
+C:\Users\Sagi\documents\visual studio 2015\Projects\AdminMachine\AdminMachine\obj\Debug\AdminMachine.AMachine.resources
+C:\Users\Sagi\documents\visual studio 2015\Projects\AdminMachine\AdminMachine\obj\Debug\AdminMachine.Properties.Resources.resources
+C:\Users\Sagi\documents\visual studio 2015\Projects\AdminMachine\AdminMachine\obj\Debug\AdminMachine.csproj.GenerateResource.Cache
+C:\Users\Sagi\documents\visual studio 2015\Projects\AdminMachine\AdminMachine\bin\Debug\AdminMachine.exe.config
+C:\Users\Sagi\documents\visual studio 2015\Projects\AdminMachine\AdminMachine\bin\Debug\AdminMachine.exe
+C:\Users\Sagi\documents\visual studio 2015\Projects\AdminMachine\AdminMachine\bin\Debug\AdminMachine.pdb
+C:\Users\Sagi\documents\visual studio 2015\Projects\AdminMachine\AdminMachine\obj\Debug\AdminMachine.exe
+C:\Users\Sagi\documents\visual studio 2015\Projects\AdminMachine\AdminMachine\obj\Debug\AdminMachine.pdb
+C:\Users\Sagi\documents\visual studio 2015\Projects\AdminMachine\AdminMachine\obj\Debug\AdminMachine.csprojResolveAssemblyReference.cache
+D:\לא למחוק\Projects\AdminMachine\AdminMachine\bin\Debug\AdminMachine.exe.config
+D:\לא למחוק\Projects\AdminMachine\AdminMachine\bin\Debug\AdminMachine.exe
+D:\לא למחוק\Projects\AdminMachine\AdminMachine\bin\Debug\AdminMachine.pdb
+D:\לא למחוק\Projects\AdminMachine\AdminMachine\obj\Debug\AdminMachine.csprojAssemblyReference.cache
+D:\לא למחוק\Projects\AdminMachine\AdminMachine\obj\Debug\AdminMachine.AddMakat.resources
+D:\לא למחוק\Projects\AdminMachine\AdminMachine\obj\Debug\AdminMachine.AMachine.resources
+D:\לא למחוק\Projects\AdminMachine\AdminMachine\obj\Debug\AdminMachine.Properties.Resources.resources
+D:\לא למחוק\Projects\AdminMachine\AdminMachine\obj\Debug\AdminMachine.csproj.GenerateResource.cache
+D:\לא למחוק\Projects\AdminMachine\AdminMachine\obj\Debug\AdminMachine.csproj.CoreCompileInputs.cache
+D:\לא למחוק\Projects\AdminMachine\AdminMachine\obj\Debug\AdminMachine.exe
+D:\לא למחוק\Projects\AdminMachine\AdminMachine\obj\Debug\AdminMachine.pdb
