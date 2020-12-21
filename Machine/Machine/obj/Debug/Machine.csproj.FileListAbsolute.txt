@@ -1,0 +1,10 @@
+c:\users\sagi\documents\visual studio 2015\Projects\Machine\Machine\bin\Debug\Machine.exe.config
+c:\Users\Sagi\documents\visual studio 2015\Projects\Machine\Machine\bin\Debug\Machine.exe
+c:\Users\Sagi\documents\visual studio 2015\Projects\Machine\Machine\bin\Debug\Machine.pdb
+c:\Users\Sagi\documents\visual studio 2015\Projects\Machine\Machine\obj\Debug\Machine.csprojResolveAssemblyReference.cache
+c:\Users\Sagi\documents\visual studio 2015\Projects\Machine\Machine\obj\Debug\Machine.Properties.Resources.resources
+c:\Users\Sagi\documents\visual studio 2015\Projects\Machine\Machine\obj\Debug\Machine.csproj.GenerateResource.Cache
+c:\Users\Sagi\documents\visual studio 2015\Projects\Machine\Machine\obj\Debug\Machine.exe
+c:\Users\Sagi\documents\visual studio 2015\Projects\Machine\Machine\obj\Debug\Machine.pdb
+c:\Users\Sagi\documents\visual studio 2015\Projects\Machine\Machine\obj\Debug\Machine.LoginWindow.resources
+c:\Users\Sagi\documents\visual studio 2015\Projects\Machine\Machine\obj\Debug\Machine.Machine.resources
